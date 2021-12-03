@@ -2,13 +2,13 @@
 argon2-cffi==19.2.0
 
 # Django
-Django==2.2.13
+Django==2.2.24
 
 # Forms
 django-crispy-forms==1.8.1
 
 # Django debug toolbar
-django-debug-toolbar==2.2
+django-debug-toolbar==1.11.1
 
 # Django environ
 django-environ==0.4.5
@@ -17,7 +17,7 @@ django-environ==0.4.5
 django-extensions==2.2.5
 
 # Django filters for API
-django-filter==2.2.0
+django-filter==2.4.0
 
 # Django recurrences for periodic tasks
 django-recurrence==1.10.1
@@ -26,7 +26,7 @@ django-recurrence==1.10.1
 django_saml2_auth==2.2.1
 
 # Django REST Framework
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 
 # Yet another Swagger generator
 drf-yasg==1.16.1
@@ -47,7 +47,7 @@ psycopg2-binary==2.8.4
 pygraphviz==1.5
 
 # nmap
-python-libnmap==0.7.0
+python-libnmap==0.7.2
 
 # redis
 redis==3.4.1
