@@ -57,3 +57,4 @@ rq==1.2.2
 
 # XML to JSON
 xmljson==0.2.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
